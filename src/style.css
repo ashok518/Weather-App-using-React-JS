@@ -1,0 +1,6 @@
+/* https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "font-family: 'Jost', sans-serif;";
+}
